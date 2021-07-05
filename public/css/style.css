@@ -1,0 +1,14 @@
+body {
+  margin-left: 5%;
+  font-family: 'Open Sans', sans-serif
+  }
+ol {
+  padding-left: 20px
+  }
+li {
+  margin-bottom: 5px
+  }
+button {
+  margin: 20px 0;
+  font-weight: bold
+  }
