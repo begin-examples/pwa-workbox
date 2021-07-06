@@ -1,5 +1,5 @@
 # Progressive Web App (PWA)
-This example demonstrates a progressive web app that deploys a service worker with *no bundling, transpiling, or complicated build process*. It uses the [Workbox library](https://developers.google.com/web/tools/workbox). 
+This example demonstrates a progressive web app that deploys a service worker with *no bundling, transpiling, or complicated build process*. It is based on the [Workbox library](https://developers.google.com/web/tools/workbox) example. 
 
 ## Deploy your own
 
