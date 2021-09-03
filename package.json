@@ -15,7 +15,7 @@
     "eslint": "^7.32.0"
   },
   "dependencies": {
-    "@architect/functions": "^3.14.1"
+    "@architect/functions": "^4.0.0"
   },
   "eslintConfig": {
     "extends": "@architect/eslint-config"
