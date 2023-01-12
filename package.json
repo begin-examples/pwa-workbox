@@ -10,7 +10,7 @@
   "author": "Ryan Bethel",
   "license": "ISC",
   "devDependencies": {
-    "@architect/eslint-config": "^2.0.1",
+    "@architect/eslint-config": "^2.1.0",
     "@architect/sandbox": "^4.5.2",
     "eslint": "^8.15.0"
   },
