@@ -12,7 +12,7 @@
   "devDependencies": {
     "@architect/eslint-config": "^2.0.1",
     "@architect/sandbox": "^4.5.2",
-    "eslint": "^8.15.0"
+    "eslint": "^8.34.0"
   },
   "dependencies": {
     "@architect/functions": "^4.1.2"
